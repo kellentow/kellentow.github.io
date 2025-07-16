@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Kellen's bot TOS"
 permalink: /discord/bot/tos
+---
 
 **Discord Bot Terms of Service & Privacy Policy**
 

@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Kellen's bot Privacy Policy"
 permalink: /discord/bot/pp
+---
 
 **Discord Bot Privacy Policy**
 
