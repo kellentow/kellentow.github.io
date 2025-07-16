@@ -3,4 +3,4 @@ title: "index"
 permalink: /
 
 # Index of /
-### [/discord](/discord/)
+### [/discord](/discord)

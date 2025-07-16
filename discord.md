@@ -2,6 +2,6 @@ layout: page
 title: "index"
 permalink: /discord/
 
-# Index of /discord/
+# Index of /discord
 ### [../](/)
-### [/discord](/discord/)[/bot](/discord/bot/)
+### [/discord](/discord)[/bot](/discord/bot)
